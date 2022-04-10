@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "App de Rick y Morty API",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "howler": "^2.2.3",
+    "author": "Gabriela Recinos",
+  "license": "ISC"
+  }
+}
